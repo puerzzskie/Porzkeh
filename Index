@@ -1,0 +1,24 @@
+<html>
+     <head>
+	 <meta name="viewport"  content="width=device-width,
+	 initial-scale=1.0">
+	 <link rel="stylesheet" href="style.css">
+	 
+	   <title>FINAL PT IN COMPUTER 9</title>
+	 </head>
+<body>
+<div class =header>
+     <div class=profile><img src=profile.jpg class="image"></div>	 
+	 <div class=nav>
+	 <input type=checkbox class=toggler id=toggler>
+	 <label for=toggler class=hamburger>
+	 
+	 </label>
+	      <ul class=menu>
+              <li><a href=>HOME</li>
+			  <li><a href=>SPORTS</li>
+			  <li><a href=>FOODS</li>
+			  <li><a href=>SONGS</li>
+			  <li><a href=>GAMES</li>
+          </ul>
+     </div>
